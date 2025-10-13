@@ -8,4 +8,4 @@ I focus on exploratory, functional, and cross-platform testing, using Jira, Trel
 
 🧩 **Current Focus:** Game testing workflows, bug documentation, and player experience.  
 📂 **View My QA Portfolio:** [QA-Portfolio-Kelina-Cowell](https://github.com/kelinacowellqa/QA-Portfolio-Kelina-Cowell)  
-💬 **Connect:** [LinkedIn](https://www.linkedin.com/in/kelinacowell
+💬 **Connect:** [LinkedIn] https://www.linkedin.com/in/kelinacowell
