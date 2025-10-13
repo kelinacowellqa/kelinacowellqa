@@ -11,5 +11,5 @@ I focus on exploratory, functional, and cross-platform testing, using Jira, Trel
 📂 **View My QA Portfolio:** [QA-Portfolio-Kelina-Cowell](https://github.com/kelinacowellqa/QA-Portfolio-Kelina-Cowell)  
 💬 **Connect:** [LinkedIn] https://www.linkedin.com/in/kelinacowell
 
-🧪 Always curious, always testing.
+🧪 Testing, learning, iterating — always improving.
 
