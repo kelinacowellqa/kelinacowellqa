@@ -1,7 +1,8 @@
 <img src=https://github.com/kelinacowellqa/kelinacowellqa/blob/main/qa-tester-multi-platform-pc-console-vr-mobile.png alt="Kelina Cowell – Multiplatform Games Tester" width="100%">
 
 ## 👋 Hi, I’m Kelina Cowell  
-🎮 **Multiplatform Games Tester | QA Portfolio** — hands-on testing across PC, Console, and VR with a focus on player experience, stability, performance, and cross-platform parity.
+🎮 **Games QA Portfolio — hands-on testing across PC, Console, and VR with a focus on player experience, stability, performance, and cross-platform parity.
+**
 
 I’m a QA tester passionate about immersive player experiences, clean gameplay design, and the art of uncovering impactful bugs that improve the player experience.  
 
