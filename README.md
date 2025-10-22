@@ -1,15 +1,17 @@
 <img src=https://github.com/kelinacowellqa/kelinacowellqa/blob/main/qa-tester-multi-platform-pc-console-vr-mobile.png alt="Kelina Cowell – Multiplatform Games Tester" width="100%">
 
-## 👋 Hi, I’m Kelina Cowell  
-🎮 **Games QA Portfolio — hands-on testing across PC, Console, and VR with a focus on player experience, stability, performance, and cross-platform parity.**
+# Kelina Cowell — Manual & Automation QA Engineer | Games & Software Testing Portfolio
 
-I’m a QA tester passionate about immersive player experiences, clean gameplay design, and the art of uncovering impactful bugs that improve the player experience.  
+**Guardian of the Player Experience**  
+Multi-Platform QA: PC • Console • VR • Mobile
 
-I focus on exploratory, functional, and cross-platform testing, using Jira, Trello, and other industry-standard tools.
+**Portfolio website:** https://kelinacowell.github.io
 
-🧩 **Current Focus:** Game testing workflows, bug documentation, and player experience.  
-📂 **View My QA Portfolio:** [QA-Portfolio-Kelina-Cowell](https://github.com/kelinacowellqa/QA-Portfolio-Kelina-Cowell)  
-💬 **Connect:** [LinkedIn] https://www.linkedin.com/in/kelina-cowell-qa-tester/
+**Featured repos:**  
+- Functional Testing Examples → https://github.com/kelinacowellqa/Functional-Testing-Examples  
+- Exploratory Testing Sessions → https://github.com/kelinacowellqa/Exploratory-Testing-Sessions  
+- Bug Reports Samples → https://github.com/kelinacowellqa/Bug-Reports-Samples  
+- QA Templates & Resources → https://github.com/kelinacowellqa/QA-Templates-and-Resources
 
-🧪 Testing, learning, iterating — always improving.
+**Contact:** LinkedIn → https://www.linkedin.com/in/kelina-cowell-qa-tester/
 
