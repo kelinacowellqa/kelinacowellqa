@@ -62,7 +62,7 @@ Multi-Platform QA: PC • Console • VR • Mobile
   <p class="hub-sub" style="max-width:68ch">
     A monthly, light-hearted carousel series from LinkedIn — each post distils a real testing lesson from a project, with cartoon illustrations.
   </p>
-  <a class="hub-cta" href="/chronicles/">Browse QA Chronicles →</a>
+  <a class="hub-cta" href="https://kelinacowellqa.github.io/QA-Chronicles-Kelina-Cowell/">Browse QA Chronicles →</a>
 </section>
 
 
