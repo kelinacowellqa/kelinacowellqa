@@ -10,7 +10,7 @@ Multi-Platform QA: PC • Console • VR • Mobile
 ## Portfolio Hub
 **Manual Testing Portfolio**  
 Functional • UI/UX • Co-op • Performance • Regression  
-➡️ **View:** https://kelinacowell.github.io  
+➡️ **View:** https://kelinacowell.github.io/Manual-QA-Portfolio-Kelina-Cowell  
 - 8 projects  
 - PC • Mobile • VR  
 - Jira workflows
