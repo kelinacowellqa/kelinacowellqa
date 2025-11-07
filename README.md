@@ -5,7 +5,7 @@
 **Guardian of the Player Experience**  
 Multi-Platform QA: PC • Console • VR • Mobile
 
-**Portfolio website:** https://kelinacowell.github.io
+**Portfolio website:** https://kelinacowellqa.github.io
 
 <!-- === Portfolio Hub (replaces Featured Repositories) === -->
 <style>
