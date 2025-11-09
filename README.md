@@ -7,7 +7,7 @@ Multi-Platform QA: PC • Console • VR • Mobile
 
 **Portfolio website:** https://kelinacowellqa.github.io
 
-## Portfolio Hub
+## Homepage
 **Manual Testing Portfolio**  
 Functional • UI/UX • Co-op • Performance • Regression  
 ➡️ **View:** https://kelinacowell.github.io/Manual-QA-Portfolio-Kelina-Cowell  
