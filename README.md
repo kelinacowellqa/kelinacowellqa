@@ -1,6 +1,6 @@
 <img src=https://github.com/kelinacowellqa/kelinacowellqa/blob/main/qa-tester-multi-platform-pc-console-vr-mobile.png alt="Kelina Cowell – Multiplatform Games Tester" width="100%">
 
-# Kelina Cowell - Junior Game QA Tester | Manual & Accessibility Testing
+# Kelina Cowell - Game QA Tester | Manual & Accessibility Testing
 
 **Guardian of the Player Experience**  
 Multi-Platform QA: PC • Console • VR • Mobile
