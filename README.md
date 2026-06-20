@@ -92,7 +92,6 @@ Key development milestones include:
 
 * APX Certified Practitioner (AbleGamers)
 * Microsoft Gaming Accessibility Fundamentals
-* QA 101 – Foundations of Game QA (Emerge QA)
 * Jira workflow training covering issue tracking, Scrum, Kanban, and user stories
 * Game Academy Bootcamp
 * Limit Break Mentorship Programme 2026
