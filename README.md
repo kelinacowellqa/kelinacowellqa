@@ -15,18 +15,22 @@ I’m a UK-based Game QA Tester providing structured QA support for indie games 
 
 My work focuses on gameplay systems, onboarding clarity, usability, accessibility-related observations, issue reproduction, regression testing, and player-facing issues that affect clarity, progression, or release readiness.
 
-Released projects include:
+<p>Released projects include:</p>
 
-Nothing Strange Here (Dandelion Developers) - Released on Steam, June 2026
-Mama Llama's Food Cart Adventure (Loom & Lore Interactive Games) - Released on PC and Google Play, May 2026
-Dungeon Raiders (Loom & Lore Interactive Games) - Released on Google Play, May 2026
+<ul>
+  <li><strong>Nothing Strange Here</strong> (Dandelion Developers) - Released on Steam, June 2026</li>
+  <li><strong>Mama Llama's Food Cart Adventure</strong> (Loom &amp; Lore Interactive Games) - Released on PC and Google Play, May 2026</li>
+  <li><strong>Dungeon Raiders</strong> (Loom &amp; Lore Interactive Games) - Released on Google Play, May 2026</li>
+</ul>
 
-I currently provide QA support on several active indie projects, including:
+<p>I currently provide QA support on several active indie projects, including:</p>
 
-Prime Time: Slime Time (Loom & Lore Interactive Games)
-After Hours (Loom & Lore Interactive Games)
-RESIDUUM (Will Nightingale)
-Grove Bound (GDO Games)
+<ul>
+  <li><strong>Prime Time: Slime Time</strong> (Loom &amp; Lore Interactive Games)</li>
+  <li><strong>After Hours</strong> (Loom &amp; Lore Interactive Games)</li>
+  <li><strong>RESIDUUM</strong> (Will Nightingale)</li>
+  <li><strong>Grove Bound</strong> (GDO Games)</li>
+</ul>
 
 ---
 
